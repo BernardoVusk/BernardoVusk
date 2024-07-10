@@ -1,4 +1,4 @@
-Seja bem vindo(a)!
+# Seja bem vindo(a)! 🫥
 
 🖥️HTML/CSS/JS - MYSQL WORKBENCH - C# - PHP - PACOTE OFFICE - PYTHON BÁSICO - PHOTOSHOP/FIGMA - MARKETING DIGITAL
 💬Inglês avançado
